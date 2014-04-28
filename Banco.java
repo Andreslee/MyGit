@@ -8,7 +8,7 @@ import akka.actor.ActorRef;
 import akka.actor.ActorSystem;
 import akka.actor.Props;
 import akka.actor.UntypedActor;
-
+//Modificado 
 public class Banco {
 
 	private static int operaciones[];
