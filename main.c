@@ -12,7 +12,7 @@ int main(int argc, char **argv)
 
 	printf("Hello %s!\n", name);
 	return 0;
-	/* Modificado por por Brayan David Cajica,
+	/* Modificado  por    Brayan David Cajica,
 	                  Christian Camilo Torres
 	                  Francisco Andres Guzman*/
 }
